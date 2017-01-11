@@ -60,5 +60,7 @@ public class Assignment1
 		
 		// Return tip amount to user
 		System.out.print("");
+		
+		// TTTTTTTTTEEEEEEEEESSSSSSSSSTTTTTTTTTTTT
 	}
 }
